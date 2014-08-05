@@ -17,3 +17,4 @@
 - 虚拟键盘的自动弹出和收回
 
 ybawMUs9.png里面是本项目的简单结构，搞不清楚自定义类和委托设置方面内容的同学可以参考这张图。
+![程序结构参考](https://github.com/Beiyi/To-Do-List-APP/blob/master/task/ybawMUs9.png)
